@@ -4,5 +4,4 @@
 # Grading
 ![grading image](Grading.jpg)
 
-# Quiz 1
-
+# สมาชิกกลุ่ม
